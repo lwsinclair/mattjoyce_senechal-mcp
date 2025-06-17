@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mattjoyce-senechal-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-mattjoyce-senechal-mcp)
+
 # Senechal MCP Server
 
 A Model Context Protocol (MCP) server that acts as a companion to the Senechal project, providing health data from the Senechal API to LLM applications.
